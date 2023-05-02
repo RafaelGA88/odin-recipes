@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(185, 254, 214);
+    font-family: monospace;
+}
+img {
+    width: 220px;
+    height: auto;
+    border-style: dashed;
+}
+h1, h3, h5, ul, ol{
+    background-color: rgb(248, 255, 246);
+}
+h1 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 25px;
+}
+h5 {
+    font-size: 15px;
+}
+ul, ol{
+    margin-bottom: 5px;
+    font-size: 22px;
+}

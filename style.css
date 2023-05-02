@@ -1,0 +1,20 @@
+img {
+    width: 1000px;
+    height: auto;
+    border-style: dashed;
+}
+body {
+    font-family: monospace;
+    background-color:rgb(255, 221, 198);
+}
+h1, h2, ul {
+    background-color: white;
+}
+h1 {
+    font-size: 50px;
+}
+li {
+    font-size: 20px;
+    margin-bottom: 5px;
+
+}
