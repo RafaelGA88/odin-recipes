@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes website made with html, css, and js
+For this project I applied my html skills to build a recipes website. I also applied my git skills to commit all updates as I devloped the website.
